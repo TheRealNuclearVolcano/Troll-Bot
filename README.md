@@ -12,3 +12,6 @@ Nothing really. Just a fun project.
 - Moderation ⏳
 - Auto-Mod ⏳
 - Trading and Shop for User Items 📝
+
+### NOTE
+This bot is **very** heavily inspired by Dank Memer https://dankmemer.lol/
