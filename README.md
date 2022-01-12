@@ -1,6 +1,7 @@
 # Troll-Bot
 A Discord Bot that I'm currently working on.
 Being developed in Python
+- You are free to download my code, edit it, and use it for your own bot.
 
 ## Purpose
 Nothing really. Just a fun project.
