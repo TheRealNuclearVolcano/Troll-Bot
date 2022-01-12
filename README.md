@@ -1,6 +1,5 @@
 # Troll-Bot
-A Discord Bot that I'm currently working on.
-Made using Python.
+A Discord Bot that I'm currently working on.\nBeing developed in Python
 
 ## Purpose
 Nothing really. Just a fun project.
