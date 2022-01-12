@@ -8,11 +8,12 @@ Nothing really. Just a fun project.
 
 ## Features
 #### (✔-The feature works | ⏳-The feature isn't done yet | 📝-The feature is planned)
-- Economy system ✔
+- Economy System ✔
 - Memes ✔
 - Moderation ⏳
 - Auto-Mod ⏳
 - Trading and Shop for User Items 📝
+- Custom Server Prefixes 📝
 
 ### NOTE
 This bot is **very** heavily inspired by Dank Memer https://dankmemer.lol/
