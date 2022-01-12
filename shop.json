@@ -1,29 +1,29 @@
 {
     "0001" : 
     {
-        "name" : "Troll",
-        "id" : "troll",
-        "icon" : "<:Troll:928892842179448873>",
+        "name" : "Example",
+        "id" : "ex",
+        "icon" : "an emoji",
         "price" : 1000,
         "sell" : 500,
-        "description" : "Troll"
+        "description" : "Description"
     },
     "0002" : 
     {
-        "name" : "Pig",
-        "id" : "pig",
-        "icon" : "<:Pig:928894888169328660>",
+        "name" : "Example2",
+        "id" : "ex2",
+        "icon" : "an emoji",
         "price" : 0,
-        "sell" : 400,
-        "description" : "Just a Pig...\nOnly obtainable by hunting."
+        "sell" : 500,
+        "description" : "This item cannot be purchased."
     },
     "0003" :
     {
-        "name" : "Gold",
-        "id" : "gold",
-        "icon" : "<:Gold:928893427834314762>",
-        "price" : 10000,
+        "name" : "Example3",
+        "id" : "ex3",
+        "icon" : "an emoji",
+        "price" : 1000,
         "sell" : 0,
-        "description" : "Shiny, yellow metal. Has no use other than to show off your wealth."
+        "description" : "This item cannot be sold."
     }
 }
