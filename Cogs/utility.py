@@ -21,7 +21,7 @@ class Utility(commands.Cog):
                 result += f'{var} = {code_vars[var]}\n'
         except Exception as e:
             result = f'ERROR : {e}'
-        await ctx.send(f'CODE :\n```{code}``` \nRESULT :\n```{result}```')
+        await ctx.send(f'CODE :\n```{code} ``` \nRESULT :\n```{result} ```')
 
 
 def setup(client):
