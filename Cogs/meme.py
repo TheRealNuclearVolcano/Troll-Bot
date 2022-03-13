@@ -4,10 +4,10 @@ import discord
 from discord.ext import commands
 
 reddit = praw.Reddit(
-    client_id = 'uqMV5tlvTWF7hbipLgrOkg',
-    client_secret = '2IWK80y3jmXIHV2Hx2jtoywHvDfFJQ',
-    user_agent='Discord Application',
-    username='u/MustachedSteve')
+    client_id = 'client_id',
+    client_secret = 'client_secret',
+    user_agent = 'user_agent',
+    username = 'username')
 
 def memes():
     posts = []
